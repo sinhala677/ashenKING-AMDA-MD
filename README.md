@@ -2,7 +2,7 @@
 
  <p align="center">  
   <a href="https://www.youtube.com/@cyber_flazy">
-    <img alt="secktor docs" height="300" src="https://i.ibb.co/J5c13yt/king-Amda.png">
+    <img alt="secktor docs" height="300" src="https://telegra.ph/file/a175fe461a061f2159e7f.jpg">
     <h1 align="center">KING-AMDA-MD-V1</h1>
   </a>
 </p>  
