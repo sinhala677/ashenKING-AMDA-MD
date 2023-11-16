@@ -66,7 +66,7 @@ click the below button to deploy on heroku!
 
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=">
+    <a href="https://heroku.com/deploy?template=https://github.com/flazy123/KING-AMDA-MD">
     <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
     </a>
 
@@ -124,7 +124,7 @@ click the below button to deploy on heroku!
 
 | <a href="https://kaveeshasithum.netlify.app/"><img src="https://telegra.ph/file/b9d966873dea349df90a8.jpg" width=80 height=80></a> | <a href="http://tiktok.com/@hirutalks"><img src="https://telegra.ph/file/fb903cab55a4352357b76.jpg" width=80 height=80></a> | <img src="https://telegra.ph/file/506e06c7ff382161f2eeb.jpg" width=80 height=80></a> |
 |---|---|---|
-| **[kaveesha Sithum](https://github.com/kaveesha-sithum)**</br>⭕𝙏𝙃𝘼𝙉𝙆 𝙔𝙊𝙐 ☘️⭕</br> | **[HIMESH](https://github.com/kumarahimes](http://tiktok.com/@hirutalks))**</br> ⭕𝙏𝙃𝘼𝙉𝙆 𝙔𝙊𝙐 ☘️⭕ | **[hansamal]()**</br>⭕𝙏𝙃𝘼𝙉𝙆 𝙔𝙊𝙐 ☘️⭕
+| **[SITHUM_SAVIYA][FLAZY_HIRU GIRL]**</br>⭕𝙏𝙃𝘼𝙉𝙆 𝙔𝙊𝙐 ☘️⭕</br> | **[HASSA_CHANU][DEXTER_OSHADA](http://tiktok.com/@hirutalks))**</br> ⭕𝙏𝙃𝘼𝙉𝙆 𝙔𝙊𝙐 ☘️⭕ | **[PAWAN_PANDA]()**</br>⭕𝙏𝙃𝘼𝙉𝙆 𝙔𝙊𝙐 ☘️⭕
 
 
 
