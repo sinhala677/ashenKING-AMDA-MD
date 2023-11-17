@@ -73,7 +73,7 @@
 <br>
 
   
-<a href="https://github.com/prabathLK/PRABATH-MD/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="fork prabath-md" height="65" width="170" /></a>
+<a href="https://github.com/flazy123/KING-AMDA-MD/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="fork king-amda" height="65" width="170" /></a>
 
  ---
 
