@@ -1,8 +1,8 @@
 {
 "scripts": {
-"start": "pm2 start index.js --deep-monitoring --attach --name prabath-md",
-"stop": "pm2 stop prabath-md",
-"restart": "pm2 restart prabath-md"
+"start": "pm2 start index.js --deep-monitoring --attach --name king-amda-md",
+"stop": "pm2 stop king-amda-md",
+"restart": "pm2 restart king-amda-md"
 },
 "dependencies": {
 "@whiskeysockets/baileys": "git+https://github.com/sampandey001/baileys",
@@ -23,11 +23,11 @@
 "path": "^0.12.7",
 "form-data": "^4.0.0",
 "@ffmpeg-installer/ffmpeg": "^1.1.0",  
-"Sachibot-Spotifydl": "github:SACHIBOT/Sachibot-Spotifydl#master",
+"flazy123-Spotifydl": "github:FLAZY123/flazy123-Spotifydl#master",
 "ffmpeg": "^0.0.4",
 "fluent-ffmpeg": "^2.1.2",
 "crypto-js":"latest",
-"youtubedl-core": "github:SACHIBOT/sachibot-youtubedl#main",
+"youtubedl-core": "github:FLAZY123/flazy123-youtubedl#main",
 "node-fetch": "^2.6.1" ,
 "megajs": "^1.1.0",
 "file-type": "^16.5.3",
