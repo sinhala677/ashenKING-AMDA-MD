@@ -66,7 +66,7 @@ click the below button to deploy on heroku!
 
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/flazy123/KING-AMDA-MD">
+    <a href="https://dashboard.heroku.com/pipelines/56c86ecb-1378-4e2e-b41d-cb22ce8a3d55/settings">
     <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
     </a>
 
