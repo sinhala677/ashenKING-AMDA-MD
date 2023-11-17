@@ -84,18 +84,18 @@
 
    <a href="tiktok.com/@_cyber_hr_king/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
 
-|**[`PAWAN_PANDA_CHANU`](tiktok.com/@_cyber_hr_king)**|
+|**[`PAWAN_PANDA_CHANU_RUKSHAN_HIRU NANGI`](tiktok.com/@_cyber_hr_king)**|
 
 ---
 
-<a href="https://www.youtube.com/@cyber_flazy"><img src="https://avatars.githubusercontent.com/u/91013948?v=4" width=80 height=80></a> 
+<a href="https://www.youtube.com/@cyber_flazy"><img src="https://telegra.ph/file/8daee9974c4a7c6c78815.jpg" width=80 height=80></a> 
 
-|**[`SAVIYY_SITHUM_DEXTER`](tiktok.com/@_cyber_hr_king)**|
+|**[`HASSA_SITHUM_DEXTER_SAVIYA`](tiktok.com/@_cyber_hr_king)**|
 
 ---
 
 ## Special Thanks to
-* [`HASSA_FLAZY_HIRU NANGI`](tiktok.com/@_cyber_hr_king/)
+* [`SAVIYA_DEXTER_FLAZY_HIRU NANGI`](tiktok.com/@_cyber_hr_king/)
 
 <br>
 <br>
