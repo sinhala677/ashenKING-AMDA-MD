@@ -1,16 +1,16 @@
 /**
-░█▀▀█ ░█▀▀█ ─█▀▀█ ░█▀▀█ ─█▀▀█ ▀▀█▀▀ ░█─░█ ── ░█▀▄▀█ ░█▀▀▄ 
-░█▄▄█ ░█▄▄▀ ░█▄▄█ ░█▀▀▄ ░█▄▄█ ─░█── ░█▀▀█ ▀▀ ░█░█░█ ░█─░█ 
-░█─── ░█─░█ ░█─░█ ░█▄▄█ ░█─░█ ─░█── ░█─░█ ── ░█──░█ ░█▄▄▀
+░█▀▀▉░    ░█▀▄▀█    ░█▀▀▄    ░█▀▀▉░                    
+░█▆▆▉░    ░█░█░█    ░█─░█    ░█▆▆▉░                  
+░█─░█░    ░█──░█    ░█▄▄▀    ░█─░█░ 
 
 
-* @project_name PRABATH-MD
-* @author Prabath Kumara <https://github.com/prabathLK>
+* @project_name KING-AMDA-MD
+* @author cyber flazy  <https://github.com/flazy123/KING-AMDA-MD>
 * @description The main hope of creating this bot is to take full advantage of the WhatsApp app and make its work easier
-* @link <https://github.com/prabathLK/PRABATH-MD>
+* @link <https://github.com/flazy123/KING-AMDA-MD>
 * @version 1.0.0
 
-© 2023 Prabath Kumara, SACHI-BOT. All rights reserved.
+© 2023 cyber flazy , FLAZY-123. All rights reserved.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.*/
 
